@@ -1,4 +1,3 @@
-```markdown
 # Day 1: Terraform Foundations, HCL Syntax & Core Workflow
 
 Welcome to Day 1 of your Terraform learning journey! This repository contains foundational concepts, configurations, and notes covering Infrastructure as Code (IaC), HashiCorp Configuration Language (HCL), and the standard core workflow commands.
