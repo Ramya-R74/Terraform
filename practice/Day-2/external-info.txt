@@ -1,0 +1,2 @@
+This configuration was generated for Terraform Day 2 practice.
+Documentation owner: Cloud Engineering Team.
