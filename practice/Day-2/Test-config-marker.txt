@@ -1,0 +1,1 @@
+Preparing configuration for inventory-api

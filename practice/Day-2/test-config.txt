@@ -1,0 +1,13 @@
+Environment: Test
+Region: ap-south-1
+Owner: Ramya
+
+Application: inventory-api
+Version: 1.0
+Metadata owner: Customer-Sucess-team
+
+File prefixes: terraform, day2, config, IaaC, Happy Learning
+
+Source information:
+This configuration was generated for Terraform Day 2 practice.
+Documentation owner: Cloud Engineering Team.
