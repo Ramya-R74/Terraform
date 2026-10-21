@@ -1,0 +1,4 @@
+Environment: prod
+Application: inventory-api
+Owner: platform-team
+Log level: WARN

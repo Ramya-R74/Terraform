@@ -1,0 +1,3 @@
+Environment: production
+Application: inventory-api
+Protected configuration: true

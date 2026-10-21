@@ -1,0 +1,4 @@
+Environment: staging
+Application: inventory-api
+Owner: qa-team
+Log level: INFO

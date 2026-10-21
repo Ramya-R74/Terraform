@@ -1,0 +1,4 @@
+Environment: dev
+Application: inventory-api
+Owner: development-team
+Log level: DEBUG
